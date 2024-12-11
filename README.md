@@ -1,4 +1,4 @@
-## 채훈의 동물농장 깃허브 👋
+## 채훈의 깃허브 👋
 
 <!--
 **cogns/cogns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
